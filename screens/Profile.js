@@ -99,7 +99,7 @@ export default class Profile extends Component {
                     : styles.appTitleText
                 }
               >
-                Storytelling App
+                Groudler
               </Text>
             </View>
           </View>
@@ -127,7 +127,7 @@ export default class Profile extends Component {
                     : styles.themeText
                 }
               >
-                Dark Theme
+                Light Theme
               </Text>
 
               <Switch
